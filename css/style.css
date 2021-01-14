@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(240, 238, 233);
+}
+
+header {
+ background-color: blue;
+ color: white;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 0 5%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.body h2, p{
+    text-align: center;
+}
+
+button{
+    margin: 0 auto;
+    margin-left: 35%;
+    background-color: blue;
+    color: white;
+    margin-top: 5%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+input {
+    border: none;
+}
+
+h2 {
+    color: rgb(18, 18, 156);
+}
+
+.form {
+background-color: #fff;
+margin: 0 25%;
+padding: 4%;
+border-radius: 6px;
+}
+
